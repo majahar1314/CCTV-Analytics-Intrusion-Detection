@@ -9,7 +9,7 @@ from ultralytics import YOLO
 # 1. PROJECT SETTINGS
 # -------------------------------
 
-VIDEO_PATH = "C:/Users/majah/Downloads/l.mp4"
+VIDEO_PATH = "input_videos/campus_cctv.mp4"
 MODEL_PATH = "yolo26n.pt"
 
 OUTPUT_DIR = Path("output")
